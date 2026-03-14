@@ -60,7 +60,7 @@ Live Demo
 
 You can try the deployed application here:
 
-https://next-word-prediction-nlp-gru.streamlit.app/
+https://next-word-prediction-nlp-gru-dkkuctfe7ulkqqb6x5jpxd.streamlit.app/
 
 Enter a short phrase and the model will predict the most probable next word.
 
